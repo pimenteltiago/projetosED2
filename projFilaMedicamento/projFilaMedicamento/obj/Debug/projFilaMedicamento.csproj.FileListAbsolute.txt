@@ -1,0 +1,13 @@
+C:\Users\CVB\Desktop\estrutura de dados\projFilaMedicamento\projFilaMedicamento\projFilaMedicamento\bin\Debug\projFilaMedicamento.exe.config
+C:\Users\CVB\Desktop\estrutura de dados\projFilaMedicamento\projFilaMedicamento\projFilaMedicamento\bin\Debug\projFilaMedicamento.exe
+C:\Users\CVB\Desktop\estrutura de dados\projFilaMedicamento\projFilaMedicamento\projFilaMedicamento\bin\Debug\projFilaMedicamento.pdb
+C:\Users\CVB\Desktop\estrutura de dados\projFilaMedicamento\projFilaMedicamento\projFilaMedicamento\obj\Debug\projFilaMedicamento.csprojAssemblyReference.cache
+C:\Users\CVB\Desktop\estrutura de dados\projFilaMedicamento\projFilaMedicamento\projFilaMedicamento\obj\Debug\projFilaMedicamento.csproj.CoreCompileInputs.cache
+C:\Users\CVB\Desktop\estrutura de dados\projFilaMedicamento\projFilaMedicamento\projFilaMedicamento\obj\Debug\projFilaMedicamento.exe
+C:\Users\CVB\Desktop\estrutura de dados\projFilaMedicamento\projFilaMedicamento\projFilaMedicamento\obj\Debug\projFilaMedicamento.pdb
+C:\Users\lucas\Desktop\IFSP\C#\source\repos\projFilaMedicamento\projFilaMedicamento\bin\Debug\projFilaMedicamento.exe.config
+C:\Users\lucas\Desktop\IFSP\C#\source\repos\projFilaMedicamento\projFilaMedicamento\bin\Debug\projFilaMedicamento.exe
+C:\Users\lucas\Desktop\IFSP\C#\source\repos\projFilaMedicamento\projFilaMedicamento\bin\Debug\projFilaMedicamento.pdb
+C:\Users\lucas\Desktop\IFSP\C#\source\repos\projFilaMedicamento\projFilaMedicamento\obj\Debug\projFilaMedicamento.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\IFSP\C#\source\repos\projFilaMedicamento\projFilaMedicamento\obj\Debug\projFilaMedicamento.exe
+C:\Users\lucas\Desktop\IFSP\C#\source\repos\projFilaMedicamento\projFilaMedicamento\obj\Debug\projFilaMedicamento.pdb
